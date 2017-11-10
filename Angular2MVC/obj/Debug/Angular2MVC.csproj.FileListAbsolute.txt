@@ -71,3 +71,7 @@ c:\users\dx-pc39\documents\visual studio 2017\Projects\Angular2MVC\Angular2MVC\b
 c:\users\dx-pc39\documents\visual studio 2017\Projects\Angular2MVC\Angular2MVC\obj\Debug\Angular2MVC.csprojResolveAssemblyReference.cache
 c:\users\dx-pc39\documents\visual studio 2017\Projects\Angular2MVC\Angular2MVC\obj\Debug\Angular2MVC.dll
 c:\users\dx-pc39\documents\visual studio 2017\Projects\Angular2MVC\Angular2MVC\obj\Debug\Angular2MVC.pdb
+C:\Users\DX-PC39\Documents\Visual Studio 2017\Projects\Angular2MVC\Angular2MVC\bin\EntityFramework.dll
+C:\Users\DX-PC39\Documents\Visual Studio 2017\Projects\Angular2MVC\Angular2MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\DX-PC39\Documents\Visual Studio 2017\Projects\Angular2MVC\Angular2MVC\bin\EntityFramework.xml
+C:\Users\DX-PC39\Documents\Visual Studio 2017\Projects\Angular2MVC\Angular2MVC\bin\EntityFramework.SqlServer.xml
